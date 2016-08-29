@@ -18,9 +18,11 @@ The program reguires Python 2.7 or higher to run.
 
 #Instructions
 
-1. Open _message_encrypter.py_ in Python or in the command prompt.
+1.Open _message_encrypter.py_ in Python or in the command prompt.
+
 2.Enter the number of the option of choice.
-3. Follow the instructions in the prompt to encypt or decrypt text messages.
+
+3.Follow the instructions in the prompt to encypt or decrypt text messages.
 
 	Note: In order to encrypt or decrypt files, the file must be of extension '.txt.' and in the same directory.
 
